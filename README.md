@@ -50,3 +50,6 @@ b) número de aviões (0-3) chegando nas filas de decolagem.
 
 ## Tela do Sistema
 ![Tela](https://github.com/NiloBSilvaJr/Air_Traffic_Python/blob/main/Tela_ATO.png)
+
+## Beta Test Results
+![BetaTest](https://github.com/NiloBSilvaJr/Air_Traffic_Python/blob/main/Beta_test_Airport_1000_for_100.png)
